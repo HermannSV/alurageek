@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "img": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+      "name": "Pikachu",
+      "price": "450.00",
+      "id": 1
+    },
+    {
+      "img": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png",
+      "name": "Eevee",
+      "price": "450.00",
+      "id": 2
+    },
+    {
+      "img": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png",
+      "name": "Squirtle",
+      "price": "450.00",
+      "id": 3
+    },
+    {
+      "img": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+      "name": "Charmander",
+      "price": "450.00",
+      "id": 4
+    },
+    {
+      "img": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png",
+      "name": "Bulbasaur",
+      "price": "450.00",
+      "id": 5
+    },
+    {
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full//132.png",
+      "name": "Ditto",
+      "price": "450.00",
+      "id": 6
+    },
+    {
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full//043.png",
+      "name": "Oddish",
+      "price": "450.00",
+      "id": 7
+    },
+    {
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full//129.png",
+      "name": "Magikarp",
+      "price": "450.00",
+      "id": 8
+    }
+  ]
+}

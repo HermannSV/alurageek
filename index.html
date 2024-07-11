@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AluraGeek</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>❤️❤️❤️ AluraGeek</h1>
+    </header>
+    <main>
+        <section class="products">
+            <h2>MIS PRODUCTOS:</h2>
+            <div class="product-grid" id="productGrid" data-lista></div>
+        </section>
+        <section class="add-product">
+            <h2>AGREGAR PRODUCTO:</h2>
+            <form id="addProductForm" data-form>
+                <input type="text" id="name" placeholder="nombre del producto..." required data-name>
+                <input type="number" id="price" placeholder="precio del producto..." required data-price>
+                <input type="text" id="image" placeholder="URL de la imagen..." required data-img>
+                <button type="submit" class="submit">Enviar</button>
+                <button type="reset" class="clear">Limpiar</button>
+            </form>
+        </section>
+        <script src="./js/mostrarProductos.js" type="module"></script>
+        <script src="./js/crearProducto.js" type="module"></script>
+    </main>
+    <footer>
+        <p>❤️❤️❤️ AluraGeek</p>
+        <p>Creado por Hermann - 2024</p>
+    </footer>
